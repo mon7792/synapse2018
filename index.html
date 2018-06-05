@@ -3,12 +3,43 @@
   <head>
     <meta charset="utf-8">
     <title>Synapse-2018</title>
-    <link rel="stylesheet" href="css/app.css">
-    <!-- <link rel="stylesheet" href="libraries/css/app.css"> -->
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link type="text/css" rel="stylesheet" href="libraries/css/bootstrap.css">
+    <!--  Application CSS -->
+    <link type="text/css" rel="stylesheet" href="css/app.css">
   </head>
   <body>
 
+    <div id="sidebarNav">
+      <div class="toggle-btn" onclick="toggleSidebar()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <center>
+      <img src="img/nuig_building_logo.png" alt="Nuig Logo" class="img-responsive brandImage">
+      <bold><p class="brand">SYNAPSE</p></bold>
+
+      <ul>
+            <li><a class="navLinks" href="#firstSection">Home</a></li>
+            <li><a class="navLinks" href="#secondSection">AboutUs</a></li>
+            <li><a class="navLinks" href="#thirdSection">Gallery</a></li>
+            <li><a class="navLinks" href="#fourthSection">Get Involved</a></li>
+            <li><a class="navLinks" href="#fifthSection">Connect with us</a></li>
+      </ul>
+      </center>
+    </div>
+
+
+
+
+    <!--jQuery-->
+    <script src="libraries/js/jquery-3.3.1.min.js" charset="utf-8"></script>
+    <!-- Bootstrap JS -->
+    <script src="libraries/js/bootstrap.min.js" charset="utf-8"></script>
+    <!--  Application JS-->
     <script src="js/app.js" charset="utf-8"></script>
-    <!-- <script src="libraries/js/app.js" charset="utf-8"></script> -->
   </body>
 </html>

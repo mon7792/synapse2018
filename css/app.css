@@ -1,0 +1,67 @@
+/*  sidebar Navogation*/
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+#sidebarNav
+{
+  position:fixed;
+  width:200px;
+  height:100%;
+  background-image: linear-gradient(to bottom, #080135, #220e3c, #381643, #4d204a, #602c50);
+  left:-200px;
+  transition: all 300ms ease-out;
+}
+
+#sidebarNav.active
+{
+  left: 0px;
+}
+
+#sidebarNav ul li {
+  list-style:none;
+  padding:15px 10px;
+  border-bottom: 1px solid rgba(100,100,100,0.3);
+}
+.navLinks{
+  color:white;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Nunito', sans-serif;
+}
+.navLinks:hover{
+  color:#602C50;
+  text-decoration: none;
+
+}
+
+#sidebarNav .toggle-btn{
+  position: absolute;
+  left: 230px;
+  top: 20px;
+}
+#sidebarNav .toggle-btn span{
+  display: block;
+  width: 30px;
+  height: 5px;
+  background: #080135;
+  margin: 5px 0px;
+
+}
+
+/*  Text Upgright*/
+.brand
+{
+  color: white;
+  font-size: 32px;
+  padding-top: 10px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.brandImage
+{
+  width:75%;
+  padding-top:10px;
+}
