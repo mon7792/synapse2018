@@ -27,7 +27,8 @@ var basicTimeline = anime.timeline({
         opacity: 1,
         duration: 2500,
         delay: 250,
-        fill: '#fdcd5b',
+        fill: '#F7AC22',
+        // fill: '#fdcd5b',
         easing: 'linear'
       })
       // Start the dashed animations
@@ -43,7 +44,7 @@ var basicTimeline = anime.timeline({
    })
    //make the logo visible
    .add({
-     targets: ['#science', '#industry', '#AI', '#Bitcoin','#MStudent'],
+     targets: ['#science', '#industry', '#AI', '#Bitcoin','#MStudent','.eventDesc'],
      opacity: 1,
      easing: 'easeInOutSine',
      duration: 3500,

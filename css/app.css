@@ -68,11 +68,19 @@
   padding-top:10px;
 }
 
+.eventDesc
+{
+  color: #F7AC22;
+  font-size: 22px;
+  font-family: 'Nunito', sans-serif;
+  opacity: 0;
+}
 
 /*  Full page section */
 #page1
 {
   z-index: 5;
+  background: #A32D39;
   /* background-image: radial-gradient(circle, #080135, #220e3c, #381643, #4d204a, #602c50); */
   /* background-image: linear-gradient(to top, #080135, #220e3c, #381643, #4d204a, #602c50); */
 }
