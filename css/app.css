@@ -11,7 +11,8 @@
   position:fixed;
   width:200px;
   height:100%;
-  background: #1A0315;
+  /* background: #693039; */
+  background: #222;
   /* background-image:linear-gradient(to bottom, #080135, #220e3c, #381643, #4d204a, #602c50); */
   left:-200px;
   transition: all 300ms ease-out;
@@ -34,7 +35,7 @@
   font-family: 'Nunito', sans-serif;
 }
 .navLinks:hover{
-  color:#602C50;
+  color:#83f52c;
   text-decoration: none;
 
 }
@@ -48,7 +49,7 @@
   display: block;
   width: 30px;
   height: 5px;
-  background: #080135;
+  background: #F7AC22;
   margin: 5px 0px;
 
 }
@@ -56,7 +57,8 @@
 /*  Text Upgright*/
 .brand
 {
-  color: white;
+  /* color: white; */
+  color: #83f52c;
   font-size: 32px;
   margin: 0 0;
   font-family: 'Nunito', sans-serif;
@@ -75,6 +77,25 @@
   font-family: 'Nunito', sans-serif;
   opacity: 0;
 }
+#comingSoonTitle
+{
+  letter-spacing: 20px;
+  font-size: 32px;
+}
+#comingSoonDate
+{
+
+}
+#comingSoonCountDown
+{
+
+}
+/*  SVG Width reduction*/
+#svg901
+{
+  width:85%;
+}
+
 
 /*  Full page section */
 #page1
@@ -100,8 +121,7 @@ canvas {
 }
 
 /*  */
-1. synapse display none
-*/
+
 /*  synapse logo*/
 
 
@@ -138,3 +158,81 @@ canvas {
 {
   opacity: 0;
 }
+
+
+/* 2nd Section : About Synase */
+#secondPageTitle
+{
+  font-size: 20px;
+  font-family:  'Yatra One', cursive;
+}
+#secondPageDesc3
+{
+  font-size: 20px;
+  font-family:  'Yatra One', cursive;
+}
+
+/* 3rd Section: Gallery */
+.gal img{
+        width: 100%;
+        padding: 7px 0;
+        border-radius:4%;
+      }
+
+
+#thirdPageTitle
+{
+  font-size: 32px;
+  font-family:  'Yatra One', cursive;
+}
+
+/* 4th Section */
+.getInvolvedSection{
+        font-family: 'Yatra One', cursive;
+        color:#fdcd5b;
+        /* #f24b4c; */
+        font-size: 40px;
+      }
+.getInvolvedSectionDesc
+{
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color:#fdcd5b;
+}
+.contHeading
+{
+  font-family: 'Yatra One', cursive;
+  /* color: #fdcd5b; */
+  font-size: 40px;
+}
+
+/*  5th section*/
+.heading
+{
+  font-family: 'Yatra One', cursive;
+  color: white;
+  font-size: 40px;
+}
+
+
+/*  navigation bar style */
+
+      #fp-nav ul li a span,
+      .fp-slidesNav ul li a span {
+      	background: #fdcd5b;
+      	width: 8px;
+      	height: 8px;
+      	margin: -4px 0 0 -4px;
+      }
+
+      #fp-nav ul li a.active span,
+      .fp-slidesNav ul li a.active span,
+      #fp-nav ul li:hover a.active span,
+      .fp-slidesNav ul li:hover a.active span {
+      	width: 16px;
+      	height: 16px;
+      	margin: -8px 0 0 -8px;
+      	background: transparent;
+      	box-sizing: border-box;
+      	border: 1px solid #24221F;
+      }

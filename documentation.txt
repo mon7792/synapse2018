@@ -1,1 +1,118 @@
 https://www.canva.com/learn/website-color-schemes/
+
+Intial Purple and Green Colors
+#551a8b-p
+#83f52c -g
+
+2nd Page write up
+
+
+SYNAPSE
+Organized by student, for students
+Synapse is a one-day gathering to showcase the latest in computing data and infrastructure technologies
+Synapse brings together tech companies, organisations, friends and groups with interesting talks,
+games and events throughout the day.
+Synapse takes place on the 27th of September 2017 from 11am in the Bailey Allen Hall, NUI Galway.
+
+
+SAP
+SAP is at the centre of today’s technology revolution.
+The market leader in enterprise application software,
+SAP helps organisations fight the damaging effects of complexity,
+generate new opportunities for innovation and growth, and stay ahead of the competition.
+Visit our corporate site to explore news, information for investors and
+analysts, career resources, SAP’s history, and more.
+
+Ericsson
+Ericsson is one of the leading providers of
+Information and Communication Technology (ICT) to service providers,
+with about 40% of the world’s mobile traffic carried through our networks.
+We enable the full value of connectivity by creating game-changing technology and services
+that are easy to use, adopt and scale, making our customers successful in a fully connected world.
+For more than 140 years, our ideas, technology and people have changed the world:
+real turning points that have transformed lives, industries and society as a whole.
+
+Amazon
+
+Empowering small businesses
+Every day we see opportunities for business and content creators transformed
+through the power of the digital economy.
+We run a number of programmes in the UK to help boost the revenue, reach and
+productivity of our small business, tech start up and content creator communities,
+ providing practical support and shining a spotlight on their success.
+
+    How we support SMEs and content creators
+    Success stories
+    Amazon Academy
+    Research and recognition
+
+
+
+Google
+
+“Organize the world’s information and make it universally accessible and useful.”
+
+Since the beginning, our goal has been to develop services that significantly improve the lives of as many people as possible.
+
+Not just for some. For everyone.
+
+Metlife
+With over 145 years of experience, the MetLife companies are a leading innovator and a recognized leader in protection planning and retirement and savings solutions around the world. We have established a strong presence in nearly 50 countries through organic growth, acquisitions, joint ventures and other partnerships. We are strengthening our global brand by extending core products and competencies to markets around the world – an important driver of growth for the enterprise.
+
+Around the world, the MetLife companies offer life, accident and health insurance, retirement and savings products through agents, third-party distributors such as banks and brokers, and direct marketing channels. We work with families, corporations and governments to provide them with solutions that offer financial guarantees in their lives. Our name is recognized and trusted by approximately 100 million customers worldwide and we serve more than 90 of the top 100 FORTUNE 500® companies in the United States. We have the experience, global resources and vision to provide financial certainties for an uncertain world.
+
+Cisco
+Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley, that develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products.[3] Through its numerous acquired subsidiaries, such as OpenDNS, WebEx, Jabber and Jasper, Cisco specializes into specific tech markets, such as Internet of Things (IoT), domain security and energy management.
+
+Intel
+Intel Corporation (stylized as intel) is an American multinational corporation and technology company headquartered in Santa Clara, California, in the Silicon Valley. It is the world's second largest and second highest valued semiconductor chip makers based on revenue after being overtaken by Samsung,[2][3] and is the inventor of the x86 series of microprocessors, the processors found in most personal computers (PCs). Intel supplies processors for computer system manufacturers such as Apple, Lenovo, HP, and Dell. Intel also manufactures motherboard chipsets, network interface controllers and integrated circuits, flash memory, graphics chips, embedded processors and other devices related to communications and computing.
+
+Avaya
+Avaya (/əˈvaɪ.ə/) is an American multinational technology company headquartered in Santa Clara, California that specializes in business communications, specifically unified communications (UC), contact center (CC), and services.[4][5] [6] Serving organizations at 220,000 customer locations worldwide,[6]. Avaya is the largest pure-play UC & CC company, ranking No. 1 in CC and No. 2 in UC and collaboration. The company had FY17 revenue of $3.3 billion, 78% of which was attributed to software & services.
+
+BlueTreeSystem
+software for the trucking and transportation industries, with offices in North America, Germany, France, the UK and Ireland.
+
+Our mission is to provide the most innovative, game-changing, driver-friendly, reliable telematics solution to the transportation industry – to help create the safest, legally compliant, fuel-efficient truck fleets for our customers worldwide.
+
+Established in 1995, Blue Tree is a leader in working with medium to large truckload carriers, both in the for-hire and private fleet markets. We provide in-cab software applications for ELDs (electronic logging), messaging and jobs, managing driver performance, vehicle tracking, truck-specific sat navigation and the monitoring of FSMA-mandated temperature-sensitive cargo. FleetManager.com is our powerful, cloud-based back office analytics and reporting platform. Our suite of open architecture, Android based hardware platforms – designed and engineered in-house — power our truck, reefer and dry trailer products. Blue Tree is unique in providing an industry leading technology solution for trucks, refrigerated vehicles and dry trailers – all from the one platform.
+
+Aviva
+Around the world, Aviva provides around 33 million customers with insurance, savings and investment products. We are a leading insurer in Ireland, and are part of the Aviva group which is present across 16 markets in Europe, Asia and Canada.
+
+We combine strong life insurance, general insurance and asset management businesses under one powerful brand. By serving our customers well, we are building a business that is strong and sustainable, and that makes a positive contribution to society of which our people are proud to work for.
+
+With Aviva, you can save for the future and manage the risks of everyday life.
+
+At a glance - our key statistics:
+
+    One global brand across 16 markets
+    33 million customers worldwide
+    We employ 1,260 across our three locations in Dublin, Galway and Cork.
+    Across the group, we paid out €30.7 billion in benefits and claims in 2015
+    Over 300 years of heritage
+
+Compsoc Nuigalway
+CompSoc’s main goal is to try and foster a love and passion for all things technology related in NUI Galway. We host a wide variety of events to work towards this goal, including workshops about Linux, hardware and programming.
+
+As outlined under our Constitution, our aims is to “promote and increase awareness of electronic communication and related computer systems, a forum to discuss and gain experience in computer networking and systems and to help educate people in the usage of Internet utilities and resources”.
+
+
+Insight Center
+The Insight Centre for Data Analytics is one of Europe’s largest data analytics research organisations, with 400+ researchers, more than 80 industry partners and over €100 million of funding.
+
+Insight is made up of four main centres: Insight@DCU, Insight@NUI Galway, Insight@UCC and Insight@UCD as well as a number of affiliated bodies.
+
+Each of Insight's main centres has a long track record of data analytics research. In July 2013 they came together under Science Foundation Ireland as Insight. The size of the centre allows for collaboration on a large scale, which enables the organisation to compete for funding and opportunities at a much higher level.
+
+Xperi
+Xperi Corporation (formerly Tessera Holding Corporation) is a San Jose, California-based firm that licenses technology and intellectual property in areas such as mobile computing, communications, memory and data storage, and 3-D Integrated Circuit (“3DIC”) technologies, among others. Markets include semiconductor packaging and interconnect solutions, mobile, computational imaging, audio and automotive. Tessera, a subsidiary of Xperi, has licensed its chip packaging technology to numerous semiconductor manufacturers, including Intel and Samsung Electronics.[1]
+
+As the company has evolved, it expanded business through the formation of Invensas, an innovator in next-generation semiconductor and packaging technologies. The company continues to grow and expand through numerous acquisitions: FotoNation, which specializes in image and video enhancement and analysis; Ziptronix, which specializes in 3-D Integrated Circuit technologies; DTS, Inc., an audio technologies company; and assets acquisition from Pelican Imaging.
+
+Nuigalway
+he National University of Ireland Galway (NUI Galway, Irish OÉ Gaillimh) is located in Ireland's most westerly city of Galway. A tertiary-level teaching and research institution, it is ranked among the top 1% of universities in the world.[2] The University is ranked #249 in the 2017 QS World University Rankings and has been also been awarded the full five QS stars for excellence.[3]
+
+The University was founded in 1845 as Queen's College, Galway, and was more recently known as University College, Galway (UCG) (Irish: Coláiste na hOllscoile, Gaillimh or COG). Alumni include former Taoiseach Enda Kenny and current President of Ireland Michael D. Higgins, as well as numerous other prominent politicians. Other leading figures in Irish official life to have been educated here include former Attorney General Máire Whelan and Comptroller and Auditor General Seamus McCarthy.
+
+NUI Galway is a member of the Coimbra Group, a network of 40 long-established European universities.
