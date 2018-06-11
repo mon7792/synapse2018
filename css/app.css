@@ -5,6 +5,8 @@
   font-family: sans-serif;
 }
 
+
+/*  SIde Navigation Bar*/
 #sidebarNav
 {
   z-index: 100;
@@ -97,35 +99,22 @@
 }
 
 
-/*  Full page section */
+/* 1nd Section  Full page section */
 #page1
 {
   z-index: 5;
   background: #A32D39;
-  /* background-image: radial-gradient(circle, #080135, #220e3c, #381643, #4d204a, #602c50); */
-  /* background-image: linear-gradient(to top, #080135, #220e3c, #381643, #4d204a, #602c50); */
 }
-/* #particles-js{
-  position: absolute;
-  width: 100%;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  overflow: hidden;
-} */
 canvas {
     position: absolute;
     top: 0;
     z-index: 1;
 }
 
-/*  */
-
-/*  synapse logo*/
 
 
 
+/*synapse logo*/
 #g4919
 {
   opacity: 1;
@@ -214,6 +203,30 @@ canvas {
   font-size: 40px;
 }
 
+#twitterIcon
+{
+  font-size: 6vw;
+  color: white;
+}
+#twitterIcon:hover
+{
+  color:#0084b4;
+}
+
+#facebookIcon
+{
+  font-size: 6vw;
+  color: white;
+}
+#facebookIcon:hover
+{
+  color: #3b5998;
+}
+.connectUsDesc
+{
+  color: white;
+}
+
 
 /*  navigation bar style */
 
@@ -236,3 +249,207 @@ canvas {
       	box-sizing: border-box;
       	border: 1px solid #24221F;
       }
+
+      /*  Media Queries*/
+      /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+
+    }
+
+    /* Extra Small Devices, Phones */
+    @media only screen and (max-width : 480px) {
+      /*  1st Page section*/
+      #comingSoonTitle
+      {
+        letter-spacing: 10px;
+        font-size: 18px;
+      }
+      #comingSoonDate
+      {
+        font-size: 18px;
+      }
+      #comingSoonCountDown
+      {
+        font-size: 18px;
+      }
+      /*  2nd page section*/
+      #secondPageTitle
+      {
+        font-size: 18px;
+      }
+      #secondPageDesc1
+      {
+        font-size: 14px;
+      }
+      #secondPageDesc2
+      {
+        font-size: 14px;
+      }
+      #secondPageDesc3
+      {
+        font-size: 18px;
+      }
+      /*  3rd page section*/
+      #thirdPageTitle
+      {
+        font-size: 18px;
+      }
+      /*  4th page section*/
+      .getInvolvedSection{
+              font-size: 22px;
+            }
+      .getInvolvedSectionDesc
+      {
+        font-size: 14px;
+      }
+      .contHeading
+      {
+        font-size: 14px;
+      }
+      .contDesc
+      {
+        font-size: 12px;
+      }
+      .btn
+      {
+        font-size: 12px;
+      }
+      hr
+      {
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+      /*  5th page section*/
+      .heading
+      {
+        font-size: 22px;
+      }
+      .connectUsDesc
+      {
+        font-size: 14px;
+        padding-right: 10px;
+        padding-left: 10px;
+      }
+      /* Sidebar */
+      .brandImage{
+        width: 70px;
+      }
+      .brand{
+        font-size: 18px;
+      }
+      .navLinks{
+        font-size: 14px;
+      }
+      #sidebarNav .toggle-btn span{
+        width: 20px;
+        height: 3px;
+        background: #F7AC22;
+        margin: 3px 0px;
+
+      }
+
+    }
+
+    /* Custom, iPhone Retina */
+    @media only screen and (max-width : 320px) {
+      /*  1st Page section*/
+      #comingSoonTitle
+      {
+        letter-spacing: 10px;
+        font-size: 16px;
+      }
+      #comingSoonDate
+      {
+        font-size: 16px;
+      }
+      #comingSoonCountDown
+      {
+        font-size: 16px;
+      }
+      /*  2nd page section*/
+      #secondPageTitle
+      {
+        font-size: 16px;
+      }
+      #secondPageDesc1
+      {
+        font-size: 12px;
+      }
+      #secondPageDesc2
+      {
+        font-size: 12px;
+      }
+      #secondPageDesc3
+      {
+        font-size: 16px;
+      }
+      /*  3rd page section*/
+      #thirdPageTitle
+      {
+        font-size: 16px;
+      }
+      /*  4th page section*/
+      .getInvolvedSection{
+              font-size: 20px;
+            }
+      .getInvolvedSectionDesc
+      {
+        font-size: 12px;
+      }
+      .contHeading
+      {
+        font-size: 12px;
+      }
+      .contDesc
+      {
+        font-size: 10px;
+      }
+      .btn
+      {
+        font-size: 10px;
+      }
+      hr
+      {
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+      /*  5th page section*/
+      .heading
+      {
+        font-size: 20px;
+      }
+      .connectUsDesc
+      {
+        font-size: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+      }
+      /* Sidebar */
+      .brandImage{
+        width: 50px;
+      }
+      .brand{
+        font-size: 16px;
+      }
+      .navLinks{
+        font-size: 12px;
+      }
+      #sidebarNav .toggle-btn span{
+        width: 20px;
+        height: 3px;
+        background: #F7AC22;
+        margin: 3px 0px;
+
+      }
+
+    }
