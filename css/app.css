@@ -176,9 +176,16 @@ canvas {
 }
 
 /* 4th Section */
+
+#imageSection{
+  background-image: url("../img/4thSectionBack.jpg") !important;
+  background-size: contain;
+  /* background-color: #cccccc; */
+}
+
 .getInvolvedSection{
         font-family: 'Yatra One', cursive;
-        color:#fdcd5b;
+        color:black;
         /* #f24b4c; */
         font-size: 40px;
       }
@@ -186,13 +193,17 @@ canvas {
 {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
-  color:#fdcd5b;
+  color:black;
 }
 .contHeading
 {
   font-family: 'Yatra One', cursive;
   /* color: #fdcd5b; */
   font-size: 40px;
+}
+.panel-footer
+{
+  background-color: white;
 }
 
 /*  5th section*/

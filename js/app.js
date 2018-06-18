@@ -7,7 +7,6 @@ function toggleSidebar()
 
 //Function to initialize full page website
 $(document).ready(function(){
-        $('#preloader').css('display', 'none');
         $('#wrapper').fullpage({
           navigation: true,
           navigationPosition: 'right',
