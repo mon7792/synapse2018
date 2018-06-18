@@ -5,6 +5,18 @@
   font-family: sans-serif;
 }
 
+/* font-family: 'Montserrat', sans-serif; */
+
+
+
+    /* font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Montserrat Subrayada', sans-serif; */
+
+/* font-family: 'Oswald', sans-serif; */
+   /* font-style: bold;
+   font-weight: 800; */
+
 
 /*  SIde Navigation Bar*/
 #sidebarNav
@@ -110,7 +122,10 @@ canvas {
     top: 0;
     z-index: 1;
 }
-
+#svg901
+{
+  width: 95%;
+}
 
 
 
@@ -152,13 +167,32 @@ canvas {
 /* 2nd Section : About Synase */
 #secondPageTitle
 {
-  font-size: 20px;
-  font-family:  'Yatra One', cursive;
+  font-size: 48px;
+  font-family: 'Oswald', sans-serif;
+  font-style: bold;
+  font-weight: bold;
+  /* color: #3b245d; */
+  /* font-family: 'Anton', sans-serif; */
+  /* font-weight: 800; */
+  background: linear-gradient(to right top, #8a2be2, #ff0094, #ff4f38, #ffb600, #adff2f);
+  -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
 }
 #secondPageDesc3
 {
   font-size: 20px;
-  font-family:  'Yatra One', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+#secondPageDesc1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+#secondPageDesc2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
 }
 
 /* 3rd Section: Gallery */
@@ -171,8 +205,14 @@ canvas {
 
 #thirdPageTitle
 {
-  font-size: 32px;
-  font-family:  'Yatra One', cursive;
+  font-size: 48px;
+  font-family: 'Oswald', sans-serif;
+  font-style: bold;
+  font-weight: bold;
+  color: #3b245d;
+  /* background: linear-gradient(to right top, #8a2be2, #ff0094, #ff4f38, #ffb600, #adff2f);
+  -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent; */
 }
 
 /* 4th Section */
@@ -184,23 +224,54 @@ canvas {
 }
 
 .getInvolvedSection{
-        font-family: 'Yatra One', cursive;
-        color:black;
+        /* font-family: 'Yatra One', cursive; */
+        font-size: 48px;
+        font-family: 'Oswald', sans-serif;
+        font-weight: bold;
+        color:#3b245d;
         /* #f24b4c; */
-        font-size: 40px;
+        /* font-size: 40px; */
+
+      }
+.getInvolvedSectionSec{
+        /* font-family: 'Yatra One', cursive; */
+        font-size: 48px;
+        font-family: 'Oswald', sans-serif;
+        font-weight: bold;
+        /* color:blueviolet; */
+        /* #f24b4c; */
+        /* font-size: 40px; */
+        background: linear-gradient(to right top, #8a2be2, #ff0094, #ff4f38, #ffb600, #adff2f);
+        -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
       }
 .getInvolvedSectionDesc
 {
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color:black;
+  background-color: white;
+  opacity: 0.8;
 }
+#invSecYear
+{
+  /* color:greenyellow; */
+}
+
 .contHeading
 {
-  font-family: 'Yatra One', cursive;
+  /* font-family: 'Yatra One', cursive; */
+  font-family: 'Oswald', sans-serif;
   /* color: #fdcd5b; */
   font-size: 40px;
+  font-weight: bold;
+  color: #3b245d;
 }
+.contDesc{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
 .panel-footer
 {
   background-color: white;
@@ -209,33 +280,47 @@ canvas {
 /*  5th section*/
 .heading
 {
-  font-family: 'Yatra One', cursive;
-  color: white;
+  /* font-family: 'Yatra One', cursive; */
+  color: #3b245d;
+  /* font-size: 40px; */
+  font-family: 'Oswald', sans-serif;
+  /* color: #fdcd5b; */
   font-size: 40px;
+  font-weight: bold;
+}
+.connectUsDesc{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
 }
 
 #twitterIcon
 {
   font-size: 6vw;
-  color: white;
+  /* color: black; */
+   background: linear-gradient(to right top, #8a2be2, #ff0094, #ff4f38, #ffb600, #adff2f);
+   -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 #twitterIcon:hover
 {
-  color:#0084b4;
+  -webkit-text-fill-color:#0084b4;
 }
 
 #facebookIcon
 {
   font-size: 6vw;
-  color: white;
+  /* color: black; */
+   background: linear-gradient(to right top, #8a2be2, #ff0094, #ff4f38, #ffb600, #adff2f);
+   -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 #facebookIcon:hover
 {
-  color: #3b5998;
+  -webkit-text-fill-color: #3b5998;
 }
 .connectUsDesc
 {
-  color: white;
+  color: black;
 }
 
 
@@ -269,6 +354,45 @@ canvas {
 
     /* Medium Devices, Desktops */
     @media only screen and (max-width : 992px) {
+      /* second Page */
+      #secondPageTitle
+      {
+        font-size: 32px;
+      }
+      /*  3rd Page*/
+      #thirdPageTitle
+      {
+        font-size: 32px;
+      }
+      /*  4th page*/
+      .getInvolvedSection
+      {
+      font-size: 32px;
+      }
+      .getInvolvedSectionSec
+      {
+      font-size: 32px;
+      }
+      .getInvolvedSectionDesc
+      {
+        font-size: 18px;
+      }
+      .contHeading
+      {
+        font-size: 30px;
+      }
+      .contDesc{
+        font-size: 16px;
+      }
+      /*  5th page*/
+      .heading
+      {
+        font-size: 32px;
+      }
+      .connectUsDesc{
+        font-size: 18px;
+      }
+
 
     }
 
@@ -319,6 +443,9 @@ canvas {
       .getInvolvedSection{
               font-size: 22px;
             }
+      .getInvolvedSectionSec{
+              font-size: 22px;
+            }
       .getInvolvedSectionDesc
       {
         font-size: 14px;
@@ -351,6 +478,18 @@ canvas {
         padding-right: 10px;
         padding-left: 10px;
       }
+      #svg2
+      {
+        width: 65%;
+      }
+      #twitterIcon
+      {
+        font-size: 14vw;
+      }
+      #facebookIcon
+      {
+        font-size: 14vw;
+      }
       /* Sidebar */
       .brandImage{
         width: 70px;
@@ -372,7 +511,7 @@ canvas {
     }
 
     /* Custom, iPhone Retina */
-    @media only screen and (max-width : 320px) {
+    @media only screen and (max-width : 321px) {
       /*  1st Page section*/
       #comingSoonTitle
       {
@@ -413,17 +552,20 @@ canvas {
       .getInvolvedSection{
               font-size: 20px;
             }
+      .getInvolvedSectionSec{
+              font-size: 20px;
+            }
       .getInvolvedSectionDesc
       {
-        font-size: 12px;
+        display: none;
       }
       .contHeading
       {
-        font-size: 12px;
+        font-size: 14px;
       }
       .contDesc
       {
-        font-size: 10px;
+        font-size: 12px;
       }
       .btn
       {
@@ -445,6 +587,19 @@ canvas {
         padding-right: 10px;
         padding-left: 10px;
       }
+      #svg2
+      {
+        width: 50%;
+      }
+      #twitterIcon
+      {
+        font-size: 16vw;
+      }
+      #facebookIcon
+      {
+        font-size: 16vw;
+      }
+
       /* Sidebar */
       .brandImage{
         width: 50px;

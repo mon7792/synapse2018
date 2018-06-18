@@ -12,6 +12,7 @@ $(document).ready(function(){
           navigationPosition: 'right',
           // navigationTooltips: ['First', 'Second', 'Third']
         });
+        console.log($('#g1911').addClass("animated infinite bounce"));
 });
 
 // Function to Trigger SVG anim
