@@ -102,7 +102,8 @@
 }
 #comingSoonCountDown
 {
-
+  letter-spacing: 10px;
+  font-size: 20px;
 }
 /*  SVG Width reduction*/
 #svg901
@@ -415,6 +416,7 @@ canvas {
       }
       #comingSoonCountDown
       {
+        letter-spacing: 5px;
         font-size: 18px;
       }
       /*  2nd page section*/
@@ -524,6 +526,7 @@ canvas {
       }
       #comingSoonCountDown
       {
+        letter-spacing: 0px;
         font-size: 16px;
       }
       /*  2nd page section*/
